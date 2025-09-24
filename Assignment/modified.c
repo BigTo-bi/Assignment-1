@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main() {
-    printf("Hello World!\n");
-    printf("This is line two.\n");
-    printf("And this is line three.\n");
+int main(){
+
+    printf("Hello, world!\n");
+    printf("This is my first C program \n");
+    printf("It will be splendid.\n");
     return 0;
 }

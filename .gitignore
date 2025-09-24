@@ -1,0 +1,9 @@
+.vscode/
+*.o
+*.out
+main
+Assignment/ascii_art
+Assignment/modified
+Assignment/card
+Assignment/fast
+Assignment/name
